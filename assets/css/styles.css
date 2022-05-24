@@ -900,12 +900,12 @@ body.light-theme{
 
   .home__handle{
     width: 150px;
-    height: 253px;
+    height: 230px;
   }
 
   .home__img{
     width: 130px;
-    height: 350px;
+    height: 200px;
   }
 
   .about__info{
@@ -943,9 +943,14 @@ body.light-theme{
     margin: 0 auto;
   }
 
+  .home__handle{
+    width: 300px;
+    height: 350px;
+  }
+
   .home__img{
-    width: 130px;
-    height: 200px;
+    width: 250px;
+    height: 300px;
   }
 
   .about__info{
