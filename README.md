@@ -9,7 +9,7 @@
 
 ## **Portfolio Status**
 ✔ Completed <br> 
-- Visit 👉 [Potfolio](https://shivanand6342.github.io/Portfolio/)
+- Visit 👉 <a href="https://shivanand6342.github.io/Portfolio/" target="_blank">Potfolio</a>
 
 ## **Portfolio Sample Screen Shot(s)**
 
