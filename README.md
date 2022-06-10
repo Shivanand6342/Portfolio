@@ -13,7 +13,7 @@
 
 ## **Portfolio Sample Screen Shot(s)**
 
-<img align="left" width="400" height="250" src="https://i.ibb.co/LNSWxbN/1.png">
+<img align="left" width="400" height="250" src="https://i.postimg.cc/5yYtjmNf/1.png">
 <img width="400" height="250" src="https://i.postimg.cc/sDGr2NjD/2.png">
 <img align="left" width="400" height="250" src="https://i.ibb.co/GFRzW31/3.png">
 <img width="400" height="250" src="https://i.postimg.cc/7YrkfNf3/4.png">
